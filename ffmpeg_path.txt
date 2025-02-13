@@ -1,0 +1,2 @@
+/workspaces/vocal_remover/ffmpeg/ffmpeg
+/workspaces/vocal_remover/ffmpeg/ffprobe
